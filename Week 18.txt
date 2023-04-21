@@ -1,0 +1,11 @@
+Challenge Questions:
+
+1.    Delete the Unnamed 0 column
+2.    Plot the total_bill column histogram
+3.    Create a scatter plot presenting the relationship between total_bill and tip
+4.    Create one image with the relationship of total_bill, tip and size.
+5.    Present the relationship between days and total_bill value
+6.    Create a scatter plot with the day as the y-axis and tip as the x-axis, differ the dots by sex
+7.    Create a box plot presenting the total_bill per day differentiation the time (Dinner or Lunch)
+8.    Create two histograms of the tip value based for Dinner and Lunch. They must be side by side.
+9.    Create two scatterplots graphs, one for Male and another for Female, presenting the total_bill value and tip relationship, differing by smoker or no smoker
